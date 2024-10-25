@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+K8cc - Siêu Nhà Cái Cá Cược Thể Thao Hàng Đầu Châu Á
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`K8cc <http://k8cc.com.pe/>`_ đã khẳng định vị thế trong ngành cá cược thể thao trực tuyến với hơn 15 năm kinh nghiệm. Được quản lý bởi tập đoàn Asian Gaming, K8cc có giấy phép hoạt động uy tín, cam kết môi trường cá cược an toàn, minh bạch. Với các trò chơi từ nhà cung cấp hàng đầu như Microgaming và Evolution Gaming, K8cc mang đến trải nghiệm cá cược chất lượng cao, bao gồm casino trực tuyến, thể thao và xổ số. Giao diện thân thiện, hệ thống nạp rút nhanh chóng và bảo mật cao làm tăng sự thu hút cho người chơi, biến K8cc thành điểm đến lý tưởng cho người yêu thích cá cược trực tuyến.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 23/4 Đ.Đỗ Nhuận, Sơn Kỳ, Tân Phú, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0778063233. 
 
-Contents
---------
+Email: info@k8cc.com.pe. 
 
-.. toctree::
+Website: http://k8cc.com.pe/ 
 
-   usage
-   api
+#k8cc #trangchuk8cc #dangkyk8cc #dangnhapk8cc #linkk8cc
